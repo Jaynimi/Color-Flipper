@@ -71,9 +71,11 @@ h2 {
     width: 150px;
     height: 50px;
     border-radius: 7px;
-    font-size: large;
+    font-size: medium;
     font-weight: bold;
     background-color: transparent;
+    letter-spacing: 4px;
+    text-transform: uppercase;
 }
 
 .btn:hover {
